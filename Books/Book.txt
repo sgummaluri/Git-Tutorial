@@ -1,0 +1,9 @@
+@book{Chacon:2014:PG:2695634,
+ author = {Chacon, Scott and Straub, Ben},
+ title = {Pro Git},
+ year = {2014},
+ isbn = {1484200772, 9781484200773},
+ edition = {2nd},
+ publisher = {Apress},
+ address = {Berkely, CA, USA},
+} 

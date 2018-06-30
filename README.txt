@@ -1,0 +1,1 @@
+This tutorial contains two folders. One of them contains the online resources for understanding Git and getting started with it. The other contains the BibTex reference to the books that are available on Git.
